@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+}
+
+.price-cards-container {
+  display: flex;
+  justify-content: space-around; /* Adjust as needed */
+  
+}
+
+.price-card-wrapper {
+  flex: 1;
+  margin: 0 10px; /* Adjust spacing between cards */
+}
